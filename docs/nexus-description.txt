@@ -1,0 +1,25 @@
+[size=4][b]Tool Charging[/b][/size]
+
+Speeds up charging a hoe or watering can. Upgraded tools hit more tiles the longer you hold the button; this shortens the hold.
+
+[b]This is [url=https://github.com/mralbobo/stardew-tool-charging]mralbobo's Tool Charging[/url], updated for Stardew Valley 1.6.[/b] The idea and the original implementation are theirs; the original was last updated in 2018 and no longer loads. This version ports it to SMAPI 4, changes the setting to a speed multiplier, and adds Generic Mod Config Menu support. Same GPL-3 license.
+
+[size=3][b]Install[/b][/size]
+[list=1]
+[*]Install [url=https://smapi.io/]SMAPI[/url].
+[*]Unzip the mod into Stardew Valley/Mods.
+[*]Run the game through SMAPI.
+[/list]
+
+[size=3][b]Config[/b][/size]
+One setting, editable in-game with [url=https://www.nexusmods.com/stardewvalley/mods/5098]Generic Mod Config Menu[/url] or in config.json:
+
+[b]ChargeSpeedMultiplier[/b] (default 2.0) — how much faster than normal a tool charges. 1.0 is the game's normal speed, 2.0 is twice as fast, 10.0 is ten times. Clamped to 1–50.
+
+[size=3][b]Compatibility[/b][/size]
+[list]
+[*]Stardew Valley 1.6+, SMAPI 4.0+. Works in multiplayer and split-screen.
+[*]No Harmony patches.
+[/list]
+
+Source: [url=https://github.com/Ad1con/stardew-tool-charging]github.com/Ad1con/stardew-tool-charging[/url]

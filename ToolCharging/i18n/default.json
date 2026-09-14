@@ -1,0 +1,4 @@
+{
+  "config.multiplier.name": "Charge speed",
+  "config.multiplier.tooltip": "How much faster a hoe or watering can charges up while you hold the button. 2.0 is twice as fast as normal; 1.0 is the normal speed."
+}
