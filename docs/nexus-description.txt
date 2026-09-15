@@ -14,7 +14,7 @@ This is [url=https://github.com/mralbobo/stardew-tool-charging]mralbobo's Tool C
 [size=3][b]Config[/b][/size]
 One setting, editable in-game with [url=https://www.nexusmods.com/stardewvalley/mods/5098]Generic Mod Config Menu[/url] or in config.json:
 
-[b]ChargeSpeedMultiplier[/b] (default 2.0) — how much faster than normal a tool charges. 1.0 is the game's normal speed, 2.0 is twice as fast, 10.0 is ten times. Clamped to 1–50.
+ChargeSpeedMultiplier (default 2.0) — how much faster than normal a tool charges. 1.0 is the game's normal speed, 2.0 is twice as fast, 10.0 is ten times. Clamped to 1–50.
 
 [size=3][b]Compatibility[/b][/size]
 • Stardew Valley 1.6+ and SMAPI 4.0+. Tested on Stardew Valley 1.6.15 with SMAPI 4.5.2.
