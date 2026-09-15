@@ -17,8 +17,8 @@ One setting, editable in-game with [url=https://www.nexusmods.com/stardewvalley/
 [b]ChargeSpeedMultiplier[/b] (default 2.0) — how much faster than normal a tool charges. 1.0 is the game's normal speed, 2.0 is twice as fast, 10.0 is ten times. Clamped to 1–50.
 
 [size=3][b]Compatibility[/b][/size]
-• Stardew Valley 1.6+, SMAPI 4.0+. Works in multiplayer and split-screen.
-• No Harmony patches.
-• Tested alongside some mods with no issues. No reason to suspect compatibility issues but cannot be guaranteed.
+• Stardew Valley 1.6+ and SMAPI 4.0+. Tested on Stardew Valley 1.6.15 with SMAPI 4.5.2.
+• Works in multiplayer and split-screen.
+• No Harmony patches, no asset changes. The only thing this mod writes to is the game's own charge timer (Farmer.toolHold) on your own player, so it shouldn't conflict with anything unless another mod also changes tool charge speed.
 
 Source: [url=https://github.com/Ad1con/stardew-tool-charging]github.com/Ad1con/stardew-tool-charging[/url]
