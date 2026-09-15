@@ -210,3 +210,8 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+
+# screenshot working files
+docs/caps/
+docs/capture.ps1
+docs/nexus-*.png

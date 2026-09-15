@@ -1,5 +1,10 @@
 # Changelog
 
+## 2.1.0 — 2026-09-14
+
+- Default `ChargeSpeedMultiplier` is now 4.0 (was 2.0). Existing `config.json` files keep their value.
+- Maximum is now 20 (was 50), matching the in-game slider.
+
 ## 2.0.1 — 2026-09-14
 
 - Added the Nexus update key. No functional change.

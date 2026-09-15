@@ -51,13 +51,13 @@ No Harmony needed. The whole mod is a ~20-line `UpdateTicked` handler.
 
 ## Config
 
-One setting: `ChargeSpeedMultiplier` (double, default 2.0).
+One setting: `ChargeSpeedMultiplier` (float, default 4.0).
 
-- `1.0` = vanilla. `2.0` = each level takes 300 ms instead of 600. `10.0` = 60 ms.
+- `1.0` = vanilla. `4.0` = each level takes 150 ms instead of 600. `10.0` = 60 ms.
 - Per tick the mod removes `(multiplier - 1) * elapsedMs` on top of the game's own `elapsedMs`, with a
   fractional carry so 1.5x is really 1.5x and not rounded to whole milliseconds per tick.
 - Floor is 1.0 (vanilla); no slowing down.
-- Clamp to [1, 50]. Above ~40x it is effectively instant at 60 fps.
+- Clamp to [1, 20].
 - Register with Generic Mod Config Menu if present (optional dependency, slider 1.0–20.0 step 0.1, plus
   free text via config.json for anything outside that). GMCM 1.16.0 is installed locally.
 

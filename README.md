@@ -27,7 +27,7 @@ or in `config.json`:
 
 | Setting | Default | Meaning |
 |---|---|---|
-| `ChargeSpeedMultiplier` | `2.0` | How much faster than normal a tool charges. `1.0` is the game's normal speed, `2.0` is twice as fast, `10.0` is ten times. Clamped to 1–50. |
+| `ChargeSpeedMultiplier` | `4.0` | How much faster than normal a tool charges. `1.0` is the game's normal speed, `4.0` is four times as fast, `10.0` is ten times. Clamped to 1–20. |
 
 ## Compatibility
 
