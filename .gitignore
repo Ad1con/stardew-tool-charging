@@ -215,3 +215,4 @@ ModelManifest.xml
 docs/caps/
 docs/capture.ps1
 docs/nexus-*.png
+*.bak
