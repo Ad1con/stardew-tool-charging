@@ -84,13 +84,5 @@ public sealed class ModEntry : Mod
             interval: 0.1f,
             formatValue: value => $"{value:0.0}x"
         );
-
-        gmcm.AddBoolOption(
-            mod: ModManifest,
-            getValue: () => Config.InstantCharge,
-            setValue: value => Config.InstantCharge = value,
-            name: () => Helper.Translation.Get("config.instant.name"),
-            tooltip: () => Helper.Translation.Get("config.instant.tooltip")
-        );
     }
 }

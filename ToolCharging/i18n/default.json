@@ -1,4 +1,6 @@
 {
   "config.multiplier.name": "Charge speed",
-  "config.multiplier.tooltip": "How much faster a hoe or watering can charges up while you hold the button. 4.0 is four times as fast as normal; 1.0 is the normal speed."
+  "config.multiplier.tooltip": "How much faster a hoe or watering can charges up while you hold the button. 4.0 is four times as fast as normal; 1.0 is the normal speed.",
+  "config.instant.name": "Instant charge",
+  "config.instant.tooltip": "The tool jumps straight to full charge the moment you hold the button. When this is on, the charge speed setting is ignored."
 }

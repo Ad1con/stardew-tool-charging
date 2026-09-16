@@ -1,5 +1,9 @@
 # Changelog
 
+## 2.1.0 — 2026-09-16
+
+- New `InstantCharge` setting (default off). Each power level completes on the next frame; the multiplier is ignored while it is on.
+
 ## 2.0.2 — 2026-09-14
 
 - Default `ChargeSpeedMultiplier` is now 4.0 (was 2.0). Existing `config.json` files keep their value.

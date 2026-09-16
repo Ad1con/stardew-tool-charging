@@ -1,3 +1,4 @@
+| `InstantCharge` | `false` | Jump straight to full charge the moment you hold the button. When on, the multiplier is ignored. |
 # Tool Charging
 
 A [Stardew Valley](https://stardewvalley.net/) mod that speeds up charging a hoe or watering can. Upgraded tools
@@ -28,7 +29,6 @@ or in `config.json`:
 | Setting | Default | Meaning |
 |---|---|---|
 | `ChargeSpeedMultiplier` | `4.0` | How much faster than normal a tool charges. `1.0` is the game's normal speed, `4.0` is four times as fast, `10.0` is ten times. Clamped to 1–20. |
-| `InstantCharge` | `false` | Jump straight to full charge the moment you hold the button. When on, the multiplier is ignored. |
 
 ## Compatibility
 

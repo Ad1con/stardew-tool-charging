@@ -9,10 +9,9 @@ This is [url=https://github.com/mralbobo/stardew-tool-charging]mralbobo's Tool C
 3. Run the game through SMAPI.
 
 [size=3][b]Config[/b][/size]
-Two settings, editable in-game with [url=https://www.nexusmods.com/stardewvalley/mods/5098]Generic Mod Config Menu[/url] or in config.json:
+One setting, editable in-game with [url=https://www.nexusmods.com/stardewvalley/mods/5098]Generic Mod Config Menu[/url] or in config.json:
 
 • ChargeSpeedMultiplier (default 4.0) — how much faster than normal a tool charges. 1.0 is the game's normal speed, 4.0 is four times as fast, 10.0 is ten times. Clamped to 1–20.
-• InstantCharge (default off) — the tool jumps straight to full charge the moment you hold the button. When this is on, the charge speed setting is ignored.
 
 [size=3][b]Compatibility[/b][/size]
 • Stardew Valley 1.6+ and SMAPI 4.0+. Tested on Stardew Valley 1.6.15 with SMAPI 4.5.2.
