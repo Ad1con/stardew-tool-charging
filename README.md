@@ -13,7 +13,7 @@ and the license is unchanged (GPL-3).
 
 ## Install
 
-On Nexus: https://www.nexusmods.com/games/stardewvalley/mods/52319
+On Nexus: https://www.nexusmods.com/stardewvalley/mods/52319
 
 
 1. Install [SMAPI](https://smapi.io/).
